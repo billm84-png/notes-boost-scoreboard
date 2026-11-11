@@ -1,0 +1,235 @@
+{
+  "updated_utc": "2026-11-11T22:40:29Z",
+  "source": "Leadership Notes Boost threads, Butterfly Boardroom",
+  "latest_boost": {
+    "date": "2026-11-10",
+    "label": "Tue Nov 10"
+  },
+  "room": {
+    "subscribers": 11662,
+    "followers": 21208,
+    "writers": 49,
+    "median_subscribers": 96,
+    "writers_showed_up": 41,
+    "first_timers": 12,
+    "member_replies_per_note": 7.3
+  },
+  "playbook": {
+    "early_replies": 8,
+    "late_replies": 4.9,
+    "text_only_replies": 8.1,
+    "with_image_replies": 4
+  },
+  "leaderboards": {
+    "most_generous": [
+      {
+        "rank": 1,
+        "name": "Melanie Wild-Schleiffelder",
+        "value": 22,
+        "url": "https://substack.com/@mynuways"
+      },
+      {
+        "rank": 2,
+        "name": "Bonnie Sheldon",
+        "value": 21,
+        "url": "https://substack.com/@bonniesheldon"
+      },
+      {
+        "rank": 3,
+        "name": "Bryan Murray",
+        "value": 17,
+        "url": "https://substack.com/@chooseacp"
+      },
+      {
+        "rank": 4,
+        "name": "3 Questions Deep",
+        "value": 14,
+        "url": "https://substack.com/@3questionsdeep"
+      },
+      {
+        "rank": 5,
+        "name": "Ryan Furlong",
+        "value": 14,
+        "url": "https://substack.com/@ryanfurlong"
+      }
+    ],
+    "best_conversation": [
+      {
+        "rank": 1,
+        "name": "Julie (Taken as Read)",
+        "value": 15,
+        "url": "https://substack.com/@takenasread/note/c-383545089"
+      },
+      {
+        "rank": 2,
+        "name": "Peter Floer",
+        "value": 13,
+        "url": "https://substack.com/@peterfloer/note/c-376407479"
+      },
+      {
+        "rank": 3,
+        "name": "Gretchen Dildine",
+        "value": 13,
+        "url": "https://substack.com/@gretchendildine/note/c-383665484"
+      },
+      {
+        "rank": 4,
+        "name": "Melanie Wild-Schleiffelder",
+        "value": 11,
+        "url": "https://substack.com/@mynuways/note/c-382804567"
+      },
+      {
+        "rank": 5,
+        "name": "Gaia F. Girus-Nowoczyn",
+        "value": 11,
+        "url": "https://substack.com/@empoweredbygaia/note/c-383600830"
+      }
+    ],
+    "welcome_crew": [
+      {
+        "rank": 1,
+        "name": "Bryan Murray",
+        "value": 8,
+        "url": "https://substack.com/@chooseacp"
+      },
+      {
+        "rank": 2,
+        "name": "3 Questions Deep",
+        "value": 6,
+        "url": "https://substack.com/@3questionsdeep"
+      },
+      {
+        "rank": 3,
+        "name": "Melanie Wild-Schleiffelder",
+        "value": 6,
+        "url": "https://substack.com/@mynuways"
+      },
+      {
+        "rank": 4,
+        "name": "Ryan Furlong",
+        "value": 6,
+        "url": "https://substack.com/@ryanfurlong"
+      },
+      {
+        "rank": 5,
+        "name": "Cate Burnett Fierbaugh ACC",
+        "value": 5,
+        "url": "https://substack.com/@cateburnettfierbaugh"
+      }
+    ],
+    "on_a_streak": [
+      {
+        "rank": 1,
+        "name": "3 Questions Deep",
+        "value": 2,
+        "url": "https://substack.com/@3questionsdeep"
+      },
+      {
+        "rank": 2,
+        "name": "Aaron Khoo",
+        "value": 2,
+        "url": "https://substack.com/@thespacebetweenlifts"
+      },
+      {
+        "rank": 3,
+        "name": "Andrew D Thompson",
+        "value": 2,
+        "url": "https://substack.com/@andrewdthompson"
+      },
+      {
+        "rank": 4,
+        "name": "Bonnie Sheldon",
+        "value": 2,
+        "url": "https://substack.com/@bonniesheldon"
+      },
+      {
+        "rank": 5,
+        "name": "Cate Burnett Fierbaugh ACC",
+        "value": 2,
+        "url": "https://substack.com/@cateburnettfierbaugh"
+      },
+      {
+        "rank": 6,
+        "name": "David Roy",
+        "value": 2,
+        "url": "https://substack.com/@davidroy25"
+      },
+      {
+        "rank": 7,
+        "name": "Gaia F. Girus-Nowoczyn",
+        "value": 2,
+        "url": "https://substack.com/@empoweredbygaia"
+      },
+      {
+        "rank": 8,
+        "name": "Ivan Getov",
+        "value": 2,
+        "url": "https://substack.com/@getov"
+      },
+      {
+        "rank": 9,
+        "name": "Kristal Buster (FIXIT with K)",
+        "value": 2,
+        "url": "https://substack.com/@kristalbuster"
+      },
+      {
+        "rank": 10,
+        "name": "Marijana Jarc",
+        "value": 2,
+        "url": "https://substack.com/@marijanajarc"
+      },
+      {
+        "rank": 11,
+        "name": "Melanie Wild-Schleiffelder",
+        "value": 2,
+        "url": "https://substack.com/@mynuways"
+      },
+      {
+        "rank": 12,
+        "name": "Peter Floer",
+        "value": 2,
+        "url": "https://substack.com/@peterfloer"
+      },
+      {
+        "rank": 13,
+        "name": "Ralitsa Bakoeva",
+        "value": 2,
+        "url": "https://substack.com/@ralitsabakoeva"
+      },
+      {
+        "rank": 14,
+        "name": "Ryan Furlong",
+        "value": 2,
+        "url": "https://substack.com/@ryanfurlong"
+      },
+      {
+        "rank": 15,
+        "name": "Stephanie Dawn Clark",
+        "value": 2,
+        "url": "https://substack.com/@stephaniedawnclark"
+      },
+      {
+        "rank": 16,
+        "name": "Steve Miska",
+        "value": 2,
+        "url": "https://substack.com/@wranglingandwriting"
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-11-05",
+      "label": "Thu Nov 5",
+      "writers_showed_up": 36,
+      "notes": 37,
+      "member_replies_per_note": 6.8
+    },
+    {
+      "date": "2026-11-10",
+      "label": "Tue Nov 10",
+      "writers_showed_up": 41,
+      "notes": 42,
+      "member_replies_per_note": 7.3
+    }
+  ]
+}

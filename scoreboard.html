@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Bill Maggio">
+<title>Leadership Notes Boost Scoreboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;0,600;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body style="margin:0;background:#fff">
+<style>
+  .bb { --navy: #0F2A58; --gold: #C9952B; --gold-deep: #98732C; --gold-soft: #ECBA59; --card: #F5F7FA; --line: #DDE3EC; --muted: #4A5B78;
+        font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--navy); background: #fff; line-height: 1.5; max-width: 72rem; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+  .bb .serif { font-family: "EB Garamond", Garamond, Georgia, "Times New Roman", serif; }
+  .bb .kicker { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; font-weight: 600; color: var(--navy); margin: 0 0 .5rem; }
+  .bb .kicker.gold { color: var(--gold-deep); }
+  .bb h1 { font-family: "EB Garamond", Garamond, Georgia, serif; font-weight: 600; text-transform: uppercase; font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.05; margin: 0 0 .5rem; letter-spacing: .01em; }
+  .bb .tag { font-family: "EB Garamond", Garamond, Georgia, serif; color: var(--gold); font-size: clamp(1.25rem, 2.6vw, 1.8rem); font-weight: 600; margin: 0 0 .25rem; }
+  .bb .tag2 { font-family: "EB Garamond", Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.2vw, 1.5rem); margin: 0 0 1rem; }
+  .bb .rule { width: 2.5rem; height: 2px; background: var(--gold); margin: 0 0 1.25rem; }
+  .bb h2 { font-family: "EB Garamond", Garamond, Georgia, serif; font-weight: 600; font-size: clamp(1.4rem, 3vw, 2rem); margin: 2.5rem 0 .25rem; }
+  .bb .lede { max-width: 46rem; color: var(--muted); margin: 0 0 1.25rem; font-size: 1rem; }
+  .bb .grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); }
+  .bb .card { background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--gold); border-radius: 10px; padding: 1.1rem 1.2rem 1.2rem; }
+  .bb .big { font-family: "EB Garamond", Garamond, Georgia, serif; font-weight: 600; font-size: clamp(2.2rem, 5vw, 3rem); line-height: 1.1; font-variant-numeric: lining-nums tabular-nums; }
+  .bb .card h3 { font-family: "EB Garamond", Garamond, Georgia, serif; font-size: 1.35rem; font-weight: 600; margin: 0 0 .15rem; }
+  .bb .how { font-size: .9rem; color: var(--muted); margin: 0 0 .75rem; }
+  .bb .label { font-size: .95rem; font-weight: 600; margin: .25rem 0 .2rem; }
+  .bb .plain { font-size: .9rem; color: var(--muted); margin: 0; }
+  .bb table.lb { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  .bb table.lb th { position: absolute; left: -9999px; }
+  .bb table.lb td { padding: .45rem .25rem; border-top: 1px solid var(--line); vertical-align: middle; }
+  .bb table.lb tr:first-child td { border-top: 0; }
+  .bb .rank { width: 2rem; font-weight: 700; color: var(--gold-deep); }
+  .bb .rank.top { color: #fff; }
+  .bb .rank.top span { display: inline-block; width: 1.6rem; height: 1.6rem; line-height: 1.6rem; text-align: center; border-radius: 50%; background: var(--gold); }
+  .bb .num { text-align: right; font-weight: 700; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .bb a { color: var(--navy); text-decoration: underline; text-decoration-color: var(--gold-soft); text-underline-offset: 3px; }
+  .bb .chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .bb .chip { background: #fff; border: 1px solid var(--gold-soft); border-radius: 999px; padding: .25rem .7rem; font-size: .88rem; }
+  .bb ol.play { list-style: none; counter-reset: p; padding: 0; margin: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); }
+  .bb ol.play li { counter-increment: p; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem 1rem 3.4rem; position: relative; }
+  .bb ol.play li::before { content: counter(p); position: absolute; left: 1rem; top: 1rem; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--navy); color: #fff; font-weight: 700; text-align: center; line-height: 1.7rem; font-size: .9rem; }
+  .bb ol.play b { display: block; font-family: "EB Garamond", Garamond, Georgia, serif; font-size: 1.15rem; margin-bottom: .2rem; }
+  .bb .why { color: var(--muted); font-size: .9rem; }
+  .bb .banner { background: var(--navy); color: #fff; border-radius: 12px; padding: 1.4rem 1.5rem; margin-top: 2.5rem; }
+  .bb .banner .serif { color: var(--gold-soft); font-size: 1.4rem; font-weight: 600; margin: 0 0 .3rem; }
+  .bb .banner p { margin: 0; }
+  .bb details { margin-top: 2rem; color: var(--muted); font-size: .85rem; max-width: 50rem; }
+  .bb summary { cursor: pointer; font-weight: 600; color: var(--navy); }
+  [data-dash-source-state=refreshing] { opacity: .5; }
+</style>
+
+<div class="bb">
+  <header id="top">
+    <p class="kicker">Butterfly Boardroom presents</p>
+    <h1 id="title">The Leadership Notes Boost Scoreboard</h1>
+    <p class="tag" id="sub">Who showed up, who gave the most, and what's working</p>
+    <p class="tag2">You don't have to grow your Substack alone.</p>
+    <div class="rule"></div>
+    <p class="lede" id="intro">A quick look at the latest boost (<b data-k="latest_boost.label" data-fmt="text">…</b>), updated after every boost. Every number here comes from the boost threads and the Notes you dropped in them.</p>
+  </header>
+
+  <section id="room">
+    <p class="kicker gold">The room, together</p>
+    <h2 id="h-room">What we add up to</h2>
+    <p class="lede">Each of us writes to a small audience. Together, the writers in this room reach a lot of readers.</p>
+    <div class="grid">
+      <div class="card" id="tile-subs"><div class="big" data-k="room.subscribers" data-fmt="int">…</div><p class="label">subscribers across our members</p><p class="plain">That's the combined reach of the <span data-k="room.writers" data-fmt="int">…</span> writers who have dropped a Note so far.</p></div>
+      <div class="card" id="tile-fol"><div class="big" data-k="room.followers" data-fmt="int">…</div><p class="label">followers across our members</p><p class="plain">Every Note you share here can be seen by their readers too.</p></div>
+      <div class="card" id="tile-show"><div class="big" data-k="room.writers_showed_up" data-fmt="int">…</div><p class="label">writers showed up last boost</p><p class="plain"><span data-k="room.first_timers" data-fmt="int">…</span> of them were here for the first time. Welcome!</p></div>
+      <div class="card" id="tile-replies"><div class="big" data-k="room.member_replies_per_note" data-fmt="one">…</div><p class="label">replies from fellow members, per Note</p><p class="plain">That's what a typical Note got in its first day. Real conversations with other leaders, not just likes.</p></div>
+    </div>
+    <p class="plain" style="margin-top:.75rem">Most of us are just getting started: half our members have fewer than <span data-k="room.median_subscribers" data-fmt="int">…</span> subscribers. That's exactly who the boost is for.</p>
+  </section>
+
+  <section id="boards">
+    <p class="kicker gold">Leaderboards</p>
+    <h2 id="h-boards">This boost's standouts</h2>
+    <p class="lede">These leaderboards reward giving, not size. Anyone can top them, whatever their subscriber count. Coaches aren't ranked.</p>
+    <div class="grid">
+      <div class="card" id="lb-generous">
+        <h3>Most Generous</h3>
+        <p class="how">Commented on the most other members' Notes.</p>
+        <table class="lb"><thead><tr><th>Rank</th><th>Member</th><th>Notes commented on</th></tr></thead><tbody data-lb="most_generous"></tbody></table>
+      </div>
+      <div class="card" id="lb-conversation">
+        <h3>Best Conversation</h3>
+        <p class="how">The Notes that drew the most fellow members into the replies in their first day.</p>
+        <table class="lb"><thead><tr><th>Rank</th><th>Member</th><th>Members who replied</th></tr></thead><tbody data-lb="best_conversation"></tbody></table>
+      </div>
+      <div class="card" id="lb-welcome">
+        <h3>Welcome Crew</h3>
+        <p class="how">Made a point of replying to first-timers and to Notes that arrived late in the day.</p>
+        <table class="lb"><thead><tr><th>Rank</th><th>Member</th><th>Notes welcomed</th></tr></thead><tbody data-lb="welcome_crew"></tbody></table>
+      </div>
+    </div>
+    <div class="card" id="lb-streak" style="margin-top:1rem">
+      <h3>On a Streak</h3>
+      <p class="how">Dropped a Note at every boost so far and commented on at least 3 other Notes each time. Keep it going!</p>
+      <div class="chips" data-lb="on_a_streak"></div>
+    </div>
+  </section>
+
+  <section id="playbook">
+    <p class="kicker gold">Your playbook</p>
+    <h2 id="h-play">Six ways to get more from every boost</h2>
+    <p class="lede">These come straight from what has worked in this room so far. Small habits, real results.</p>
+    <ol class="play">
+      <li id="tip-early"><b>Drop your Note early</b><span class="why">Notes dropped before 11am got about <span data-k="playbook.early_replies" data-fmt="one">…</span> replies from members in their first day. Later ones got about <span data-k="playbook.late_replies" data-fmt="one">…</span>.</span></li>
+      <li id="tip-text"><b>Keep it text only</b><span class="why">Notes without an image drew about <span data-k="playbook.text_only_replies" data-fmt="one">…</span> member replies, against about <span data-k="playbook.with_image_replies" data-fmt="one">…</span> for Notes with one. Words start conversations.</span></li>
+      <li id="tip-short"><b>Say it in 75 words or fewer</b><span class="why">Short Notes give people something to respond to without feeling like an article. Give enough context, then stop.</span></li>
+      <li id="tip-three"><b>Comment on at least 3</b><span class="why">The boost works because everyone gives. Start with the Notes that have the fewest replies so far.</span></li>
+      <li id="tip-reply"><b>Answer your replies</b><span class="why">When someone comments on your Note, reply back. That's where the relationship starts.</span></li>
+      <li id="tip-back"><b>Come back in the afternoon</b><span class="why">Late arrivals are easy to miss. A second pass up the thread keeps everyone in the conversation.</span></li>
+    </ol>
+  </section>
+
+  <div class="banner" id="cta">
+    <p class="serif">Same topic. All sizes. Always free.</p>
+    <p>Boosts run Tuesdays and Thursdays starting at 7:30am Eastern. Drop your best Note, comment on three, and we'll see you on the leaderboard.</p>
+  </div>
+
+  <details id="defs">
+    <summary>How we count</summary>
+    <p>We read the boost threads and the Notes linked in them after each boost. "Showed up" means you dropped a link to your own Note. Replies from members count people who also dropped a Note that day and replied within 24 hours. Most Generous counts how many other members' Notes you replied to after they were dropped. Welcome Crew counts replies to Notes dropped after 11am Eastern or by someone at their first boost. Subscriber and follower totals come from each member's public Substack profile, counted once per person. Coaches (Derek, Deren, Stephanie, Stephanie and Bill) help run the room, so they aren't ranked. Early days: with only a few boosts so far, read these as encouragement, not a final verdict.</p>
+  </details>
+</div>
+
+
+<script>
+/* Leadership Notes Boost scoreboard. Reads the public data file, which is refreshed the day after every boost. */
+(function () {
+  var DATA_URL = 'https://raw.githubusercontent.com/billm84-png/notes-boost-scoreboard/main/scoreboard.json';
+  var root = document.querySelector('.bb');
+  function get(o, path) { return path.split('.').reduce(function (x, k) { return x == null ? x : x[k]; }, o); }
+  function fmt(v, f) {
+    if (v == null) return '\u2026';
+    if (f === 'int') return Number(v).toLocaleString('en-US');
+    if (f === 'one') return Number(v).toFixed(1);
+    return String(v);
+  }
+  function link(name, url, cls) {
+    var el = document.createElement(url ? 'a' : 'span');
+    if (cls) el.className = cls;
+    if (url) { el.href = url; el.target = '_blank'; el.rel = 'noopener'; }
+    el.textContent = name;
+    return el;
+  }
+  function render(data) {
+    root.querySelectorAll('[data-k]').forEach(function (el) { el.textContent = fmt(get(data, el.dataset.k), el.dataset.fmt); });
+    root.querySelectorAll('tbody[data-lb]').forEach(function (tb) {
+      tb.replaceChildren();
+      var rows = (data.leaderboards && data.leaderboards[tb.dataset.lb]) || [];
+      rows.forEach(function (x) {
+        var tr = document.createElement('tr');
+        var t1 = document.createElement('td'); t1.className = 'rank' + (x.rank === 1 ? ' top' : '');
+        var s = document.createElement('span'); s.textContent = x.rank; t1.appendChild(s);
+        var t2 = document.createElement('td'); t2.appendChild(link(x.name, x.url));
+        var t3 = document.createElement('td'); t3.className = 'num'; t3.textContent = x.value;
+        tr.append(t1, t2, t3); tb.appendChild(tr);
+      });
+      if (!rows.length) { var tr = document.createElement('tr'), td = document.createElement('td'); td.textContent = 'Results appear after the next boost.'; tr.appendChild(td); tb.appendChild(tr); }
+    });
+    var chips = root.querySelector('.chips[data-lb]');
+    chips.replaceChildren();
+    ((data.leaderboards && data.leaderboards.on_a_streak) || []).forEach(function (x) { chips.appendChild(link(x.name, x.url, 'chip')); });
+  }
+  fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(render)
+    .catch(function () { var p = root.querySelector('#intro'); if (p) p.textContent = 'The latest numbers could not be loaded right now. Please refresh the page in a minute.'; });
+})();
+</script>
+</body>
+</html>
