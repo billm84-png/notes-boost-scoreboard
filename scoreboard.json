@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13T03:02:35Z",
+  "updated_utc": "2026-11-13T15:56:26Z",
   "source": "Leadership Notes Boost threads, Butterfly Boardroom",
   "latest_boost": {
     "date": "2026-11-12",
@@ -726,5 +726,408 @@
       "notes": 46,
       "member_replies_per_note": 8.4
     }
-  ]
+  ],
+  "badges_week": {
+    "label": "Week of Nov 9",
+    "read": "early",
+    "rules": {
+      "generous": "Commented on 5 or more Notes at a boost this week",
+      "most_generous": "Commented on 10 or more Notes at a boost this week",
+      "welcome_crew": "Replied to 2 or more first-timers' Notes this week",
+      "streak_bronze": "Dropped a Note at 4 boosts in a row",
+      "streak_silver": "12 boosts in a row",
+      "streak_gold": "24 boosts in a row"
+    },
+    "counts": {
+      "most_generous": 12,
+      "generous": 12,
+      "welcome_crew": 22,
+      "streak_bronze": 0,
+      "streak_silver": 0,
+      "streak_gold": 0
+    },
+    "members": [
+      {
+        "name": "3 Questions Deep",
+        "url": "https://substack.com/@3questionsdeep",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 24,
+        "first_timers_welcomed": 8,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Amit Sharma (Health & Business)",
+        "url": "https://substack.com/@itsamitsharma",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 13,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Andrew D Thompson",
+        "url": "https://substack.com/@andrewdthompson",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 13,
+        "first_timers_welcomed": 5,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Bonnie Sheldon",
+        "url": "https://substack.com/@bonniesheldon",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 21,
+        "first_timers_welcomed": 8,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Bryan Murray",
+        "url": "https://substack.com/@chooseacp",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 20,
+        "first_timers_welcomed": 9,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Marijana Jarc",
+        "url": "https://substack.com/@marijanajarc",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 11,
+        "first_timers_welcomed": 6,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Melanie Wild-Schleiffelder",
+        "url": "https://substack.com/@mynuways",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 30,
+        "first_timers_welcomed": 11,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Natasha Vondracek",
+        "url": "https://substack.com/@natashavondracek",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 11,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 1
+      },
+      {
+        "name": "Peter Floer",
+        "url": "https://substack.com/@peterfloer",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 17,
+        "first_timers_welcomed": 6,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Ralitsa Bakoeva",
+        "url": "https://substack.com/@ralitsabakoeva",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 13,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Ryan Furlong",
+        "url": "https://substack.com/@ryanfurlong",
+        "badges": [
+          "most_generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 21,
+        "first_timers_welcomed": 8,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Aaron Khoo",
+        "url": "https://substack.com/@thespacebetweenlifts",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 0
+      },
+      {
+        "name": "Cate Burnett Fierbaugh ACC",
+        "url": "https://substack.com/@cateburnettfierbaugh",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Chris Hsiung",
+        "url": "https://substack.com/@chrishsiung",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 4,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 0
+      },
+      {
+        "name": "David Roy",
+        "url": "https://substack.com/@davidroy25",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 6,
+        "first_timers_welcomed": 3,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Gaia F. Girus-Nowoczyn",
+        "url": "https://substack.com/@empoweredbygaia",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 6,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 0
+      },
+      {
+        "name": "Ivan Getov",
+        "url": "https://substack.com/@getov",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 4,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Julie (Taken as Read)",
+        "url": "https://substack.com/@takenasread",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 7,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 0
+      },
+      {
+        "name": "Pascal Thibodeau",
+        "url": "https://substack.com/@pascalwrites",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 7,
+        "first_timers_welcomed": 4,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Paul Robinson",
+        "url": "https://substack.com/@paulrobinsonlife",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Stephanie Dawn Clark",
+        "url": "https://substack.com/@stephaniedawnclark",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 9,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
+      },
+      {
+        "name": "Andrew Thompson",
+        "url": "https://substack.com/@andrewdthompson11",
+        "badges": [
+          "most_generous"
+        ],
+        "best_boost_comments": 10,
+        "first_timers_welcomed": 0,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 1
+      },
+      {
+        "name": "Bill Clarke at Unlikely Things",
+        "url": "https://substack.com/@billclarke",
+        "badges": [
+          "generous"
+        ],
+        "best_boost_comments": 5,
+        "first_timers_welcomed": 0,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 1
+      },
+      {
+        "name": "Jen Dean",
+        "url": "https://substack.com/@aandecollective",
+        "badges": [
+          "generous"
+        ],
+        "best_boost_comments": 7,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Kimberly",
+        "url": "https://substack.com/@keepcommandcarryon",
+        "badges": [
+          "welcome_crew"
+        ],
+        "best_boost_comments": 4,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      }
+    ]
+  },
+  "new_members_week": {
+    "label": "Week of Nov 9",
+    "members": [
+      {
+        "name": "Amanda Wallman",
+        "url": "https://substack.com/@amandawallman"
+      },
+      {
+        "name": "Amit Sharma (Health & Business)",
+        "url": "https://substack.com/@itsamitsharma"
+      },
+      {
+        "name": "Andrew Thompson",
+        "url": "https://substack.com/@andrewdthompson11"
+      },
+      {
+        "name": "Ben Newbury",
+        "url": "https://substack.com/@bennewbury"
+      },
+      {
+        "name": "Bill Clarke at Unlikely Things",
+        "url": "https://substack.com/@billclarke"
+      },
+      {
+        "name": "Bryan Murray",
+        "url": "https://substack.com/@chooseacp"
+      },
+      {
+        "name": "Chintan NP Sheth ►",
+        "url": "https://substack.com/@chintannpsheth"
+      },
+      {
+        "name": "Chris Hsiung",
+        "url": "https://substack.com/@chrishsiung"
+      },
+      {
+        "name": "Christian Brennecke-Räther",
+        "url": "https://substack.com/@dercbr"
+      },
+      {
+        "name": "Christopher Stafford",
+        "url": "https://substack.com/@realcstafford"
+      },
+      {
+        "name": "Geneèn Wright",
+        "url": "https://substack.com/@geneenwright"
+      },
+      {
+        "name": "Gretchen Dildine",
+        "url": "https://substack.com/@gretchendildine"
+      },
+      {
+        "name": "Julie (Taken as Read)",
+        "url": "https://substack.com/@takenasread"
+      },
+      {
+        "name": "Kimberly",
+        "url": "https://substack.com/@keepcommandcarryon"
+      },
+      {
+        "name": "Pascal Thibodeau",
+        "url": "https://substack.com/@pascalwrites"
+      },
+      {
+        "name": "Paul Robinson",
+        "url": "https://substack.com/@paulrobinsonlife"
+      },
+      {
+        "name": "Philippe Turrian",
+        "url": "https://substack.com/@philippeturrian"
+      },
+      {
+        "name": "Priyanka Saha",
+        "url": "https://substack.com/@prisaha"
+      },
+      {
+        "name": "Startup Grind Berlin",
+        "url": "https://substack.com/@startupgrindberlin"
+      },
+      {
+        "name": "Todd McKeever",
+        "url": "https://substack.com/@toddmckeever1"
+      }
+    ]
+  }
 }
