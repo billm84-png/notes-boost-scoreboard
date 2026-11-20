@@ -1,341 +1,330 @@
 {
-  "updated_utc": "2026-11-18T03:02:38Z",
+  "updated_utc": "2026-11-20T03:04:55Z",
   "source": "Leadership Notes Boost threads, Butterfly Boardroom",
   "latest_boost": {
-    "date": "2026-11-17",
-    "label": "Tue Nov 17 (early read)",
+    "date": "2026-11-19",
+    "label": "Thu Nov 19 (early read)",
     "read": "early"
   },
   "week": {
-    "label": "Week of Nov 16",
+    "label": "Week of Nov 16 (Thursday is an early read)",
     "start": "2026-11-16",
     "end": "2026-11-22",
     "boosts": [
-      "Tue Nov 17"
+      "Tue Nov 17",
+      "Thu Nov 19"
     ],
     "read": "early"
   },
   "room": {
-    "subscribers": 15290,
-    "followers": 29044,
-    "writers": 60,
-    "median_subscribers": 99,
-    "writers_showed_up": 42,
-    "first_timers": 8,
-    "member_replies_per_note": 7.7
+    "subscribers": 16348,
+    "followers": 31620,
+    "writers": 64,
+    "median_subscribers": 99.5,
+    "writers_showed_up": 37,
+    "first_timers": 5,
+    "member_replies_per_note": 7.4
   },
   "room_reach": {
-    "subscribers": 16015,
-    "followers": 32019,
-    "members_counted": 77,
-    "room_members": 91,
-    "hidden_subscriber_counts": 6,
-    "median_subscribers": 85
+    "subscribers": 17060,
+    "followers": 34547,
+    "members_counted": 80,
+    "room_members": 98,
+    "hidden_subscriber_counts": 7,
+    "median_subscribers": 95
   },
   "this_week": {
     "label": "Week of Nov 16",
-    "writers_showed_up": 42,
-    "first_timers": 2,
-    "member_replies_per_note": 7.7,
-    "notes": 42,
-    "boosts": 1
+    "writers_showed_up": 48,
+    "first_timers": 6,
+    "member_replies_per_note": 8.3,
+    "notes": 81,
+    "boosts": 2
   },
   "growth": {
     "since": "2026-11-12",
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-19",
     "members_then": 76,
-    "members_now": 77,
+    "members_now": 80,
     "subscribers": {
-      "start": 15670,
-      "now": 16015,
-      "change": 345,
-      "from_members_growing": 327,
-      "from_new_members": 18
+      "start": 15630,
+      "now": 17060,
+      "change": 1430,
+      "from_members_growing": 655,
+      "from_new_members": 775
     },
     "followers": {
-      "start": 31021,
-      "now": 32019,
-      "change": 998,
-      "from_members_growing": 980,
-      "from_new_members": 18
+      "start": 30861,
+      "now": 34547,
+      "change": 3686,
+      "from_members_growing": 1577,
+      "from_new_members": 2109
     }
   },
   "playbook": {
-    "early_replies": 8.5,
-    "late_replies": 4.9,
-    "text_only_replies": 8.1,
-    "with_image_replies": 5
+    "early_replies": 7.9,
+    "late_replies": 5.4,
+    "text_only_replies": 8.7,
+    "with_image_replies": 4.5
   },
   "leaderboards": {
     "most_generous": [
       {
         "rank": 1,
-        "name": "3 Questions Deep",
-        "value": 23,
-        "url": "https://substack.com/@3questionsdeep"
+        "name": "Bryan Murray",
+        "value": 16,
+        "url": "https://substack.com/@chooseacp"
       },
       {
         "rank": 2,
-        "name": "Bonnie Sheldon",
-        "value": 21,
-        "url": "https://substack.com/@bonniesheldon"
+        "name": "Julie (Taken as Read)",
+        "value": 15,
+        "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 3,
         "name": "Melanie Wild-Schleiffelder",
-        "value": 21,
+        "value": 15,
         "url": "https://substack.com/@mynuways"
       },
       {
         "rank": 4,
-        "name": "Peter Floer",
-        "value": 20,
-        "url": "https://substack.com/@peterfloer"
+        "name": "Bonnie Sheldon",
+        "value": 14,
+        "url": "https://substack.com/@bonniesheldon"
       },
       {
         "rank": 5,
-        "name": "Ryan Furlong",
+        "name": "Jules Glanzer",
         "value": 13,
-        "url": "https://substack.com/@ryanfurlong"
+        "url": "https://substack.com/@inhisstepsinmyshoes"
       }
     ],
     "best_conversation": [
       {
         "rank": 1,
-        "name": "Melanie Wild-Schleiffelder",
-        "value": 14,
-        "url": "https://substack.com/@mynuways/note/c-384549568"
+        "name": "Julie (Taken as Read)",
+        "value": 15,
+        "url": "https://substack.com/@takenasread/note/c-391489674"
       },
       {
         "rank": 2,
-        "name": "Andrew Thompson",
+        "name": "Bryan Murray",
         "value": 14,
-        "url": "https://substack.com/@andrewdthompson11/note/c-389712740"
+        "url": "https://substack.com/@chooseacp/note/c-383483532"
       },
       {
         "rank": 3,
-        "name": "Dan McKeown",
-        "value": 12,
-        "url": "https://substack.com/@danmckeownoig/note/c-387341319"
+        "name": "Stephanie Dawn Clark",
+        "value": 13,
+        "url": "https://substack.com/@stephaniedawnclark/note/c-389782357"
       },
       {
         "rank": 4,
-        "name": "Bryan Murray",
+        "name": "Dan McKeown",
         "value": 12,
-        "url": "https://substack.com/@chooseacp/note/c-383484026"
+        "url": "https://substack.com/@danmckeownoig/note/c-388150705"
       },
       {
         "rank": 5,
-        "name": "KJ Green (Solo Star)",
-        "value": 12,
-        "url": "https://substack.com/@insidesolostar/note/c-381657295"
+        "name": "Geneèn Wright",
+        "value": 11,
+        "url": "https://substack.com/@geneenwright/note/c-391501592"
       }
     ],
     "welcome_crew": [
       {
         "rank": 1,
-        "name": "Andrew Thompson",
-        "value": 5,
-        "url": "https://substack.com/@andrewdthompson11"
+        "name": "Jules Glanzer",
+        "value": 4,
+        "url": "https://substack.com/@inhisstepsinmyshoes"
       },
       {
         "rank": 2,
-        "name": "3 Questions Deep",
-        "value": 4,
-        "url": "https://substack.com/@3questionsdeep"
+        "name": "Cate Burnett Fierbaugh ACC",
+        "value": 3,
+        "url": "https://substack.com/@cateburnettfierbaugh"
       },
       {
         "rank": 3,
-        "name": "Julie (Taken as Read)",
-        "value": 4,
-        "url": "https://substack.com/@takenasread"
+        "name": "Todd McKeever",
+        "value": 3,
+        "url": "https://substack.com/@toddmckeever1"
       },
       {
         "rank": 4,
-        "name": "Peter Floer",
-        "value": 4,
-        "url": "https://substack.com/@peterfloer"
+        "name": "Julie (Taken as Read)",
+        "value": 3,
+        "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 5,
-        "name": "Amit Sharma (Health & Business)",
+        "name": "Gretchen Dildine",
         "value": 3,
-        "url": "https://substack.com/@itsamitsharma"
+        "url": "https://substack.com/@gretchendildine"
       }
     ],
     "on_a_streak": [
       {
         "rank": 1,
-        "name": "3 Questions Deep",
-        "value": 4,
-        "url": "https://substack.com/@3questionsdeep"
-      },
-      {
-        "rank": 2,
         "name": "Aaron Khoo",
-        "value": 4,
+        "value": 5,
         "url": "https://substack.com/@thespacebetweenlifts"
       },
       {
-        "rank": 20,
+        "rank": 14,
         "name": "Amit Sharma (Health & Business)",
-        "value": 3,
+        "value": 4,
         "url": "https://substack.com/@itsamitsharma"
       },
       {
-        "rank": 3,
+        "rank": 23,
+        "name": "Andre Crane",
+        "value": 2,
+        "url": "https://substack.com/@andrecrane"
+      },
+      {
+        "rank": 2,
         "name": "Andrew D Thompson",
-        "value": 4,
+        "value": 5,
         "url": "https://substack.com/@andrewdthompson"
       },
       {
-        "rank": 26,
+        "rank": 20,
         "name": "Andrew Thompson",
-        "value": 2,
+        "value": 3,
         "url": "https://substack.com/@andrewdthompson11"
       },
       {
-        "rank": 27,
-        "name": "Azubogu Favour",
-        "value": 2,
-        "url": "https://substack.com/@favouritechidera"
-      },
-      {
-        "rank": 28,
+        "rank": 21,
         "name": "Bill Clarke at Unlikely Things",
-        "value": 2,
+        "value": 3,
         "url": "https://substack.com/@billclarke"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Bonnie Sheldon",
-        "value": 4,
+        "value": 5,
         "url": "https://substack.com/@bonniesheldon"
       },
       {
-        "rank": 21,
-        "name": "Bryan Murray",
-        "value": 3,
-        "url": "https://substack.com/@chooseacp"
-      },
-      {
-        "rank": 5,
-        "name": "Cate Burnett Fierbaugh ACC",
-        "value": 4,
-        "url": "https://substack.com/@cateburnettfierbaugh"
-      },
-      {
-        "rank": 29,
-        "name": "Chintan NP Sheth ►",
-        "value": 2,
-        "url": "https://substack.com/@chintannpsheth"
-      },
-      {
-        "rank": 6,
-        "name": "Coach Brian Carver",
-        "value": 4,
-        "url": "https://substack.com/@elevationleadership"
-      },
-      {
-        "rank": 7,
-        "name": "Dan McKeown",
-        "value": 4,
-        "url": "https://substack.com/@danmckeownoig"
-      },
-      {
-        "rank": 8,
-        "name": "David Roy",
-        "value": 4,
-        "url": "https://substack.com/@davidroy25"
-      },
-      {
-        "rank": 9,
-        "name": "Gaia F. Girus-Nowoczyn",
-        "value": 4,
-        "url": "https://substack.com/@empoweredbygaia"
-      },
-      {
-        "rank": 22,
-        "name": "Gretchen Dildine",
-        "value": 3,
-        "url": "https://substack.com/@gretchendildine"
-      },
-      {
-        "rank": 23,
-        "name": "Kimberly",
-        "value": 3,
-        "url": "https://substack.com/@keepcommandcarryon"
-      },
-      {
-        "rank": 10,
-        "name": "KJ Green (Solo Star)",
-        "value": 4,
-        "url": "https://substack.com/@insidesolostar"
-      },
-      {
-        "rank": 11,
-        "name": "Kylene Toney",
-        "value": 4,
-        "url": "https://substack.com/@kylenetoney"
-      },
-      {
-        "rank": 12,
-        "name": "Marijana Jarc",
-        "value": 4,
-        "url": "https://substack.com/@marijanajarc"
-      },
-      {
-        "rank": 13,
-        "name": "Melanie Wild-Schleiffelder",
-        "value": 4,
-        "url": "https://substack.com/@mynuways"
-      },
-      {
         "rank": 24,
-        "name": "Pascal Thibodeau",
-        "value": 3,
-        "url": "https://substack.com/@pascalwrites"
-      },
-      {
-        "rank": 25,
-        "name": "Paul Robinson",
-        "value": 3,
-        "url": "https://substack.com/@paulrobinsonlife"
-      },
-      {
-        "rank": 14,
-        "name": "Peter Floer",
-        "value": 4,
-        "url": "https://substack.com/@peterfloer"
+        "name": "Brand Perception Studio",
+        "value": 2,
+        "url": "https://substack.com/@brandperceptionstudio"
       },
       {
         "rank": 15,
-        "name": "Ralitsa Bakoeva",
+        "name": "Bryan Murray",
         "value": 4,
-        "url": "https://substack.com/@ralitsabakoeva"
+        "url": "https://substack.com/@chooseacp"
+      },
+      {
+        "rank": 4,
+        "name": "Cate Burnett Fierbaugh ACC",
+        "value": 5,
+        "url": "https://substack.com/@cateburnettfierbaugh"
+      },
+      {
+        "rank": 22,
+        "name": "Chintan NP Sheth ►",
+        "value": 3,
+        "url": "https://substack.com/@chintannpsheth"
+      },
+      {
+        "rank": 25,
+        "name": "Chris Hsiung",
+        "value": 2,
+        "url": "https://substack.com/@chrishsiung"
+      },
+      {
+        "rank": 5,
+        "name": "Coach Brian Carver",
+        "value": 5,
+        "url": "https://substack.com/@elevationleadership"
+      },
+      {
+        "rank": 6,
+        "name": "Dan McKeown",
+        "value": 5,
+        "url": "https://substack.com/@danmckeownoig"
+      },
+      {
+        "rank": 7,
+        "name": "David Roy",
+        "value": 5,
+        "url": "https://substack.com/@davidroy25"
       },
       {
         "rank": 16,
-        "name": "Ryan Furlong",
+        "name": "Gretchen Dildine",
         "value": 4,
-        "url": "https://substack.com/@ryanfurlong"
+        "url": "https://substack.com/@gretchendildine"
+      },
+      {
+        "rank": 26,
+        "name": "Jules Glanzer",
+        "value": 2,
+        "url": "https://substack.com/@inhisstepsinmyshoes"
+      },
+      {
+        "rank": 27,
+        "name": "Julie (Taken as Read)",
+        "value": 2,
+        "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 17,
-        "name": "Stephanie Dawn Clark",
+        "name": "Kimberly",
         "value": 4,
-        "url": "https://substack.com/@stephaniedawnclark"
+        "url": "https://substack.com/@keepcommandcarryon"
+      },
+      {
+        "rank": 8,
+        "name": "KJ Green (Solo Star)",
+        "value": 5,
+        "url": "https://substack.com/@insidesolostar"
+      },
+      {
+        "rank": 9,
+        "name": "Marijana Jarc",
+        "value": 5,
+        "url": "https://substack.com/@marijanajarc"
+      },
+      {
+        "rank": 10,
+        "name": "Melanie Wild-Schleiffelder",
+        "value": 5,
+        "url": "https://substack.com/@mynuways"
       },
       {
         "rank": 18,
-        "name": "Steve Miska",
+        "name": "Pascal Thibodeau",
         "value": 4,
-        "url": "https://substack.com/@wranglingandwriting"
+        "url": "https://substack.com/@pascalwrites"
       },
       {
         "rank": 19,
-        "name": "Zacharie Edwards",
+        "name": "Paul Robinson",
         "value": 4,
+        "url": "https://substack.com/@paulrobinsonlife"
+      },
+      {
+        "rank": 11,
+        "name": "Ralitsa Bakoeva",
+        "value": 5,
+        "url": "https://substack.com/@ralitsabakoeva"
+      },
+      {
+        "rank": 12,
+        "name": "Stephanie Dawn Clark",
+        "value": 5,
+        "url": "https://substack.com/@stephaniedawnclark"
+      },
+      {
+        "rank": 13,
+        "name": "Zacharie Edwards",
+        "value": 5,
         "url": "https://substack.com/@thecultureperspective"
       }
     ]
@@ -344,250 +333,280 @@
     "most_generous": [
       {
         "rank": 1,
-        "name": "3 Questions Deep",
-        "value": 23,
-        "url": "https://substack.com/@3questionsdeep"
+        "name": "Bryan Murray",
+        "value": 45,
+        "url": "https://substack.com/@chooseacp"
       },
       {
         "rank": 2,
-        "name": "Bonnie Sheldon",
-        "value": 21,
-        "url": "https://substack.com/@bonniesheldon"
-      },
-      {
-        "rank": 3,
         "name": "Melanie Wild-Schleiffelder",
-        "value": 21,
+        "value": 37,
         "url": "https://substack.com/@mynuways"
       },
       {
+        "rank": 3,
+        "name": "Bonnie Sheldon",
+        "value": 35,
+        "url": "https://substack.com/@bonniesheldon"
+      },
+      {
         "rank": 4,
-        "name": "Peter Floer",
-        "value": 20,
-        "url": "https://substack.com/@peterfloer"
+        "name": "Julie (Taken as Read)",
+        "value": 28,
+        "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 5,
-        "name": "Ryan Furlong",
-        "value": 13,
-        "url": "https://substack.com/@ryanfurlong"
+        "name": "Marijana Jarc",
+        "value": 28,
+        "url": "https://substack.com/@marijanajarc"
       }
     ],
     "best_conversation": [
       {
         "rank": 1,
         "name": "Melanie Wild-Schleiffelder",
-        "value": 14,
+        "value": 15,
         "url": "https://substack.com/@mynuways/note/c-384549568"
       },
       {
         "rank": 2,
+        "name": "Julie (Taken as Read)",
+        "value": 15,
+        "url": "https://substack.com/@takenasread/note/c-391489674"
+      },
+      {
+        "rank": 3,
         "name": "Andrew Thompson",
         "value": 14,
         "url": "https://substack.com/@andrewdthompson11/note/c-389712740"
       },
       {
-        "rank": 3,
-        "name": "Dan McKeown",
-        "value": 12,
-        "url": "https://substack.com/@danmckeownoig/note/c-387341319"
-      },
-      {
         "rank": 4,
         "name": "Bryan Murray",
-        "value": 12,
-        "url": "https://substack.com/@chooseacp/note/c-383484026"
+        "value": 14,
+        "url": "https://substack.com/@chooseacp/note/c-383483532"
       },
       {
         "rank": 5,
-        "name": "KJ Green (Solo Star)",
-        "value": 12,
-        "url": "https://substack.com/@insidesolostar/note/c-381657295"
+        "name": "Stephanie Dawn Clark",
+        "value": 13,
+        "url": "https://substack.com/@stephaniedawnclark/note/c-389782357"
       }
     ],
     "welcome_crew": [
       {
         "rank": 1,
+        "name": "Bryan Murray",
+        "value": 8,
+        "url": "https://substack.com/@chooseacp"
+      },
+      {
+        "rank": 2,
+        "name": "Julie (Taken as Read)",
+        "value": 7,
+        "url": "https://substack.com/@takenasread"
+      },
+      {
+        "rank": 3,
+        "name": "Marijana Jarc",
+        "value": 6,
+        "url": "https://substack.com/@marijanajarc"
+      },
+      {
+        "rank": 4,
         "name": "Andrew Thompson",
         "value": 5,
         "url": "https://substack.com/@andrewdthompson11"
       },
       {
-        "rank": 2,
-        "name": "3 Questions Deep",
-        "value": 4,
-        "url": "https://substack.com/@3questionsdeep"
-      },
-      {
-        "rank": 3,
-        "name": "Julie (Taken as Read)",
-        "value": 4,
-        "url": "https://substack.com/@takenasread"
-      },
-      {
-        "rank": 4,
-        "name": "Peter Floer",
-        "value": 4,
-        "url": "https://substack.com/@peterfloer"
-      },
-      {
         "rank": 5,
-        "name": "Amit Sharma (Health & Business)",
-        "value": 3,
-        "url": "https://substack.com/@itsamitsharma"
+        "name": "Pascal Thibodeau",
+        "value": 5,
+        "url": "https://substack.com/@pascalwrites"
       }
     ]
   },
   "members": [
     {
-      "name": "3 Questions Deep",
-      "url": "https://substack.com/@3questionsdeep",
-      "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
       "name": "Aaron Khoo",
       "url": "https://substack.com/@thespacebetweenlifts",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "Andrew D Thompson",
       "url": "https://substack.com/@andrewdthompson",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "Bonnie Sheldon",
       "url": "https://substack.com/@bonniesheldon",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "Cate Burnett Fierbaugh ACC",
       "url": "https://substack.com/@cateburnettfierbaugh",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "Coach Brian Carver",
       "url": "https://substack.com/@elevationleadership",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "Dan McKeown",
       "url": "https://substack.com/@danmckeownoig",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "boosts_dropped": 5,
+      "current_streak": 5
     },
     {
       "name": "David Roy",
       "url": "https://substack.com/@davidroy25",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "KJ Green (Solo Star)",
+      "url": "https://substack.com/@insidesolostar",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Marijana Jarc",
+      "url": "https://substack.com/@marijanajarc",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Melanie Wild-Schleiffelder",
+      "url": "https://substack.com/@mynuways",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Ralitsa Bakoeva",
+      "url": "https://substack.com/@ralitsabakoeva",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Stephanie Dawn Clark",
+      "url": "https://substack.com/@stephaniedawnclark",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Zacharie Edwards",
+      "url": "https://substack.com/@thecultureperspective",
+      "boosts_dropped": 5,
+      "current_streak": 5
+    },
+    {
+      "name": "Amit Sharma (Health & Business)",
+      "url": "https://substack.com/@itsamitsharma",
       "boosts_dropped": 4,
       "current_streak": 4
+    },
+    {
+      "name": "Bryan Murray",
+      "url": "https://substack.com/@chooseacp",
+      "boosts_dropped": 4,
+      "current_streak": 4
+    },
+    {
+      "name": "Gretchen Dildine",
+      "url": "https://substack.com/@gretchendildine",
+      "boosts_dropped": 4,
+      "current_streak": 4
+    },
+    {
+      "name": "Kimberly",
+      "url": "https://substack.com/@keepcommandcarryon",
+      "boosts_dropped": 4,
+      "current_streak": 4
+    },
+    {
+      "name": "Pascal Thibodeau",
+      "url": "https://substack.com/@pascalwrites",
+      "boosts_dropped": 4,
+      "current_streak": 4
+    },
+    {
+      "name": "Paul Robinson",
+      "url": "https://substack.com/@paulrobinsonlife",
+      "boosts_dropped": 4,
+      "current_streak": 4
+    },
+    {
+      "name": "3 Questions Deep",
+      "url": "https://substack.com/@3questionsdeep",
+      "boosts_dropped": 4,
+      "current_streak": 0
     },
     {
       "name": "Gaia F. Girus-Nowoczyn",
       "url": "https://substack.com/@empoweredbygaia",
       "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "KJ Green (Solo Star)",
-      "url": "https://substack.com/@insidesolostar",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "current_streak": 0
     },
     {
       "name": "Kylene Toney",
       "url": "https://substack.com/@kylenetoney",
       "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "Marijana Jarc",
-      "url": "https://substack.com/@marijanajarc",
-      "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "Melanie Wild-Schleiffelder",
-      "url": "https://substack.com/@mynuways",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "current_streak": 0
     },
     {
       "name": "Peter Floer",
       "url": "https://substack.com/@peterfloer",
       "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "Ralitsa Bakoeva",
-      "url": "https://substack.com/@ralitsabakoeva",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "current_streak": 0
     },
     {
       "name": "Ryan Furlong",
       "url": "https://substack.com/@ryanfurlong",
       "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "Stephanie Dawn Clark",
-      "url": "https://substack.com/@stephaniedawnclark",
-      "boosts_dropped": 4,
-      "current_streak": 4
+      "current_streak": 0
     },
     {
       "name": "Steve Miska",
       "url": "https://substack.com/@wranglingandwriting",
       "boosts_dropped": 4,
-      "current_streak": 4
+      "current_streak": 0
     },
     {
-      "name": "Zacharie Edwards",
-      "url": "https://substack.com/@thecultureperspective",
-      "boosts_dropped": 4,
-      "current_streak": 4
-    },
-    {
-      "name": "Amit Sharma (Health & Business)",
-      "url": "https://substack.com/@itsamitsharma",
+      "name": "Andrew Thompson",
+      "url": "https://substack.com/@andrewdthompson11",
       "boosts_dropped": 3,
       "current_streak": 3
     },
     {
-      "name": "Bryan Murray",
-      "url": "https://substack.com/@chooseacp",
+      "name": "Bill Clarke at Unlikely Things",
+      "url": "https://substack.com/@billclarke",
       "boosts_dropped": 3,
       "current_streak": 3
     },
     {
-      "name": "Gretchen Dildine",
-      "url": "https://substack.com/@gretchendildine",
+      "name": "Chintan NP Sheth ►",
+      "url": "https://substack.com/@chintannpsheth",
       "boosts_dropped": 3,
       "current_streak": 3
     },
     {
-      "name": "Kimberly",
-      "url": "https://substack.com/@keepcommandcarryon",
+      "name": "Chris Hsiung",
+      "url": "https://substack.com/@chrishsiung",
       "boosts_dropped": 3,
-      "current_streak": 3
+      "current_streak": 2
     },
     {
-      "name": "Pascal Thibodeau",
-      "url": "https://substack.com/@pascalwrites",
+      "name": "Julie (Taken as Read)",
+      "url": "https://substack.com/@takenasread",
       "boosts_dropped": 3,
-      "current_streak": 3
-    },
-    {
-      "name": "Paul Robinson",
-      "url": "https://substack.com/@paulrobinsonlife",
-      "boosts_dropped": 3,
-      "current_streak": 3
+      "current_streak": 2
     },
     {
       "name": "Hideaki Kodama",
@@ -614,68 +633,50 @@
       "current_streak": 0
     },
     {
-      "name": "Andrew Thompson",
-      "url": "https://substack.com/@andrewdthompson11",
+      "name": "Andre Crane",
+      "url": "https://substack.com/@andrecrane",
       "boosts_dropped": 2,
       "current_streak": 2
+    },
+    {
+      "name": "Brand Perception Studio",
+      "url": "https://substack.com/@brandperceptionstudio",
+      "boosts_dropped": 2,
+      "current_streak": 2
+    },
+    {
+      "name": "Jules Glanzer",
+      "url": "https://substack.com/@inhisstepsinmyshoes",
+      "boosts_dropped": 2,
+      "current_streak": 2
+    },
+    {
+      "name": "Geneèn Wright",
+      "url": "https://substack.com/@geneenwright",
+      "boosts_dropped": 2,
+      "current_streak": 1
+    },
+    {
+      "name": "Todd McKeever",
+      "url": "https://substack.com/@toddmckeever1",
+      "boosts_dropped": 2,
+      "current_streak": 1
     },
     {
       "name": "Azubogu Favour",
       "url": "https://substack.com/@favouritechidera",
       "boosts_dropped": 2,
-      "current_streak": 2
-    },
-    {
-      "name": "Bill Clarke at Unlikely Things",
-      "url": "https://substack.com/@billclarke",
-      "boosts_dropped": 2,
-      "current_streak": 2
-    },
-    {
-      "name": "Chintan NP Sheth ►",
-      "url": "https://substack.com/@chintannpsheth",
-      "boosts_dropped": 2,
-      "current_streak": 2
-    },
-    {
-      "name": "Bri Leiðarljós",
-      "url": "https://substack.com/@heartbeatsharborswildheartbeat",
-      "boosts_dropped": 2,
-      "current_streak": 1
-    },
-    {
-      "name": "Chris Hsiung",
-      "url": "https://substack.com/@chrishsiung",
-      "boosts_dropped": 2,
-      "current_streak": 1
-    },
-    {
-      "name": "Julie (Taken as Read)",
-      "url": "https://substack.com/@takenasread",
-      "boosts_dropped": 2,
-      "current_streak": 1
-    },
-    {
-      "name": "Natascha M.",
-      "url": "https://substack.com/@confidentverbalist",
-      "boosts_dropped": 2,
-      "current_streak": 1
-    },
-    {
-      "name": "Samantha (Strategic Friction)",
-      "url": "https://substack.com/@strategicfrictionadvisory",
-      "boosts_dropped": 2,
-      "current_streak": 1
-    },
-    {
-      "name": "Startup Grind Berlin",
-      "url": "https://substack.com/@startupgrindberlin",
-      "boosts_dropped": 2,
-      "current_streak": 1
+      "current_streak": 0
     },
     {
       "name": "Ben Newbury",
       "url": "https://substack.com/@bennewbury",
+      "boosts_dropped": 2,
+      "current_streak": 0
+    },
+    {
+      "name": "Bri Leiðarljós",
+      "url": "https://substack.com/@heartbeatsharborswildheartbeat",
       "boosts_dropped": 2,
       "current_streak": 0
     },
@@ -698,6 +699,12 @@
       "current_streak": 0
     },
     {
+      "name": "Natascha M.",
+      "url": "https://substack.com/@confidentverbalist",
+      "boosts_dropped": 2,
+      "current_streak": 0
+    },
+    {
       "name": "Natasha Vondracek",
       "url": "https://substack.com/@natashavondracek",
       "boosts_dropped": 2,
@@ -710,14 +717,32 @@
       "current_streak": 0
     },
     {
-      "name": "Brand Perception Studio",
-      "url": "https://substack.com/@brandperceptionstudio",
+      "name": "Samantha (Strategic Friction)",
+      "url": "https://substack.com/@strategicfrictionadvisory",
+      "boosts_dropped": 2,
+      "current_streak": 0
+    },
+    {
+      "name": "Startup Grind Berlin",
+      "url": "https://substack.com/@startupgrindberlin",
+      "boosts_dropped": 2,
+      "current_streak": 0
+    },
+    {
+      "name": "Amanda Brandon",
+      "url": "https://substack.com/@theknownleader",
       "boosts_dropped": 1,
       "current_streak": 1
     },
     {
-      "name": "Jules Glanzer",
-      "url": "https://substack.com/@inhisstepsinmyshoes",
+      "name": "Dr. Hui  | The Prevention Edge",
+      "url": "https://substack.com/@huizukauskas",
+      "boosts_dropped": 1,
+      "current_streak": 1
+    },
+    {
+      "name": "Sharon Hull",
+      "url": "https://substack.com/@sharonhull",
       "boosts_dropped": 1,
       "current_streak": 1
     },
@@ -740,12 +765,6 @@
       "current_streak": 0
     },
     {
-      "name": "Geneèn Wright",
-      "url": "https://substack.com/@geneenwright",
-      "boosts_dropped": 1,
-      "current_streak": 0
-    },
-    {
       "name": "Priyanka Saha",
       "url": "https://substack.com/@prisaha",
       "boosts_dropped": 1,
@@ -754,12 +773,6 @@
     {
       "name": "Tetiana Shevtsova",
       "url": "https://substack.com/@tetianashevtsova",
-      "boosts_dropped": 1,
-      "current_streak": 0
-    },
-    {
-      "name": "Todd McKeever",
-      "url": "https://substack.com/@toddmckeever1",
       "boosts_dropped": 1,
       "current_streak": 0
     }
@@ -789,31 +802,53 @@
     {
       "date": "2026-11-17",
       "label": "Tue Nov 17",
-      "writers_showed_up": 42,
-      "notes": 42,
-      "member_replies_per_note": 7.7
+      "writers_showed_up": 43,
+      "notes": 43,
+      "member_replies_per_note": 9.1
+    },
+    {
+      "date": "2026-11-19",
+      "label": "Thu Nov 19",
+      "writers_showed_up": 37,
+      "notes": 38,
+      "member_replies_per_note": 7.4
     }
   ],
   "badges_week": {
     "label": "Week of Nov 16",
     "read": "early",
     "rules": {
-      "generous": "Commented on 5 or more Notes at a boost this week",
-      "most_generous": "Commented on 10 or more Notes at a boost this week",
+      "generous": "Commented on, or restacked with a comment, 5 or more members' Notes at a boost this week",
+      "most_generous": "Commented on, or restacked with a comment, 10 or more members' Notes at a boost this week",
       "welcome_crew": "Replied to 2 or more first-timers' Notes this week",
       "streak_bronze": "Dropped a Note at 4 boosts in a row",
       "streak_silver": "12 boosts in a row",
       "streak_gold": "24 boosts in a row"
     },
     "counts": {
-      "most_generous": 10,
-      "generous": 10,
-      "welcome_crew": 5,
+      "most_generous": 14,
+      "generous": 12,
+      "welcome_crew": 11,
       "streak_bronze": 19,
       "streak_silver": 0,
       "streak_gold": 0
     },
     "members": [
+      {
+        "name": "Amit Sharma (Health & Business)",
+        "url": "https://substack.com/@itsamitsharma",
+        "badges": [
+          "most_generous",
+          "welcome_crew",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 11,
+        "best_boost_notes_engaged": 11,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 4
+      },
       {
         "name": "Bonnie Sheldon",
         "url": "https://substack.com/@bonniesheldon",
@@ -823,9 +858,56 @@
           "streak_bronze"
         ],
         "best_boost_comments": 21,
+        "best_boost_notes_engaged": 21,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 2,
-        "boosts_dropped_this_week": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Bryan Murray",
+        "url": "https://substack.com/@chooseacp",
+        "badges": [
+          "most_generous",
+          "welcome_crew",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 29,
+        "best_boost_notes_engaged": 29,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 4,
+        "boosts_dropped_this_week": 2,
         "current_streak": 4
+      },
+      {
+        "name": "David Roy",
+        "url": "https://substack.com/@davidroy25",
+        "badges": [
+          "most_generous",
+          "welcome_crew",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 9,
+        "best_boost_notes_engaged": 10,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Marijana Jarc",
+        "url": "https://substack.com/@marijanajarc",
+        "badges": [
+          "most_generous",
+          "welcome_crew",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 15,
+        "best_boost_notes_engaged": 17,
+        "restacks_with_comment_this_week": 4,
+        "first_timers_welcomed": 3,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
         "name": "Melanie Wild-Schleiffelder",
@@ -835,71 +917,55 @@
           "welcome_crew",
           "streak_bronze"
         ],
-        "best_boost_comments": 21,
-        "first_timers_welcomed": 2,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "best_boost_comments": 22,
+        "best_boost_notes_engaged": 22,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 3,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
-        "name": "David Roy",
-        "url": "https://substack.com/@davidroy25",
+        "name": "Pascal Thibodeau",
+        "url": "https://substack.com/@pascalwrites",
         "badges": [
           "generous",
           "welcome_crew",
           "streak_bronze"
         ],
-        "best_boost_comments": 9,
-        "first_timers_welcomed": 2,
-        "boosts_dropped_this_week": 1,
+        "best_boost_comments": 6,
+        "best_boost_notes_engaged": 6,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 3,
+        "boosts_dropped_this_week": 2,
         "current_streak": 4
       },
       {
-        "name": "3 Questions Deep",
-        "url": "https://substack.com/@3questionsdeep",
-        "badges": [
-          "most_generous",
-          "streak_bronze"
-        ],
-        "best_boost_comments": 23,
-        "first_timers_welcomed": 1,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
-      },
-      {
-        "name": "Amit Sharma (Health & Business)",
-        "url": "https://substack.com/@itsamitsharma",
+        "name": "Bri Leiðarljós",
+        "url": "https://substack.com/@heartbeatsharborswildheartbeat",
         "badges": [
           "most_generous",
           "welcome_crew"
         ],
-        "best_boost_comments": 11,
+        "best_boost_comments": 19,
+        "best_boost_notes_engaged": 19,
+        "restacks_with_comment_this_week": 2,
         "first_timers_welcomed": 2,
         "boosts_dropped_this_week": 1,
-        "current_streak": 3
+        "current_streak": 0
       },
       {
-        "name": "Marijana Jarc",
-        "url": "https://substack.com/@marijanajarc",
+        "name": "Jules Glanzer",
+        "url": "https://substack.com/@inhisstepsinmyshoes",
         "badges": [
           "most_generous",
-          "streak_bronze"
+          "welcome_crew"
         ],
-        "best_boost_comments": 10,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
-      },
-      {
-        "name": "Peter Floer",
-        "url": "https://substack.com/@peterfloer",
-        "badges": [
-          "most_generous",
-          "streak_bronze"
-        ],
-        "best_boost_comments": 20,
-        "first_timers_welcomed": 1,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "best_boost_comments": 13,
+        "best_boost_notes_engaged": 13,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
       },
       {
         "name": "Ralitsa Bakoeva",
@@ -909,21 +975,39 @@
           "streak_bronze"
         ],
         "best_boost_comments": 10,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "best_boost_notes_engaged": 10,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
-        "name": "Ryan Furlong",
-        "url": "https://substack.com/@ryanfurlong",
+        "name": "Stephanie Dawn Clark",
+        "url": "https://substack.com/@stephaniedawnclark",
         "badges": [
           "most_generous",
           "streak_bronze"
         ],
-        "best_boost_comments": 13,
+        "best_boost_comments": 12,
+        "best_boost_notes_engaged": 12,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Aaron Khoo",
+        "url": "https://substack.com/@thespacebetweenlifts",
+        "badges": [
+          "generous",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 5,
+        "best_boost_notes_engaged": 5,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
         "name": "Andrew D Thompson",
@@ -933,9 +1017,25 @@
           "streak_bronze"
         ],
         "best_boost_comments": 9,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "best_boost_notes_engaged": 9,
+        "restacks_with_comment_this_week": 2,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Bill Clarke at Unlikely Things",
+        "url": "https://substack.com/@billclarke",
+        "badges": [
+          "generous",
+          "welcome_crew"
+        ],
+        "best_boost_comments": 5,
+        "best_boost_notes_engaged": 5,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 2,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
       },
       {
         "name": "Dan McKeown",
@@ -945,56 +1045,66 @@
           "streak_bronze"
         ],
         "best_boost_comments": 5,
+        "best_boost_notes_engaged": 5,
+        "restacks_with_comment_this_week": 2,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Gretchen Dildine",
+        "url": "https://substack.com/@gretchendildine",
+        "badges": [
+          "generous",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 8,
+        "best_boost_notes_engaged": 8,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
         "current_streak": 4
       },
       {
-        "name": "Gaia F. Girus-Nowoczyn",
-        "url": "https://substack.com/@empoweredbygaia",
+        "name": "Paul Robinson",
+        "url": "https://substack.com/@paulrobinsonlife",
         "badges": [
           "generous",
           "streak_bronze"
         ],
         "best_boost_comments": 5,
+        "best_boost_notes_engaged": 5,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
+        "boosts_dropped_this_week": 2,
         "current_streak": 4
       },
       {
-        "name": "Pascal Thibodeau",
-        "url": "https://substack.com/@pascalwrites",
+        "name": "Todd McKeever",
+        "url": "https://substack.com/@toddmckeever1",
         "badges": [
           "generous",
           "welcome_crew"
         ],
-        "best_boost_comments": 6,
+        "best_boost_comments": 8,
+        "best_boost_notes_engaged": 8,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 2,
         "boosts_dropped_this_week": 1,
-        "current_streak": 3
+        "current_streak": 1
       },
       {
-        "name": "Stephanie Dawn Clark",
-        "url": "https://substack.com/@stephaniedawnclark",
-        "badges": [
-          "generous",
-          "streak_bronze"
-        ],
-        "best_boost_comments": 6,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
-      },
-      {
-        "name": "Bryan Murray",
-        "url": "https://substack.com/@chooseacp",
+        "name": "3 Questions Deep",
+        "url": "https://substack.com/@3questionsdeep",
         "badges": [
           "most_generous"
         ],
-        "best_boost_comments": 12,
-        "first_timers_welcomed": 0,
+        "best_boost_comments": 23,
+        "best_boost_notes_engaged": 25,
+        "restacks_with_comment_this_week": 7,
+        "first_timers_welcomed": 1,
         "boosts_dropped_this_week": 1,
-        "current_streak": 3
+        "current_streak": 0
       },
       {
         "name": "Julie (Taken as Read)",
@@ -1002,10 +1112,38 @@
         "badges": [
           "most_generous"
         ],
-        "best_boost_comments": 12,
+        "best_boost_comments": 15,
+        "best_boost_notes_engaged": 15,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 2
+      },
+      {
+        "name": "Peter Floer",
+        "url": "https://substack.com/@peterfloer",
+        "badges": [
+          "most_generous"
+        ],
+        "best_boost_comments": 20,
+        "best_boost_notes_engaged": 20,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 0
+      },
+      {
+        "name": "Ryan Furlong",
+        "url": "https://substack.com/@ryanfurlong",
+        "badges": [
+          "most_generous"
+        ],
+        "best_boost_comments": 14,
+        "best_boost_notes_engaged": 14,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
-        "current_streak": 1
+        "current_streak": 0
       },
       {
         "name": "Andrew Thompson",
@@ -1014,53 +1152,50 @@
           "generous"
         ],
         "best_boost_comments": 7,
+        "best_boost_notes_engaged": 7,
+        "restacks_with_comment_this_week": 2,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 2
+        "boosts_dropped_this_week": 2,
+        "current_streak": 3
       },
       {
-        "name": "Bri Leiðarljós",
-        "url": "https://substack.com/@heartbeatsharborswildheartbeat",
+        "name": "Gaia F. Girus-Nowoczyn",
+        "url": "https://substack.com/@empoweredbygaia",
         "badges": [
           "generous"
         ],
         "best_boost_comments": 6,
+        "best_boost_notes_engaged": 7,
+        "restacks_with_comment_this_week": 1,
         "first_timers_welcomed": 0,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 0
+      },
+      {
+        "name": "Geneèn Wright",
+        "url": "https://substack.com/@geneenwright",
+        "badges": [
+          "generous"
+        ],
+        "best_boost_comments": 6,
+        "best_boost_notes_engaged": 6,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 1,
         "boosts_dropped_this_week": 1,
         "current_streak": 1
       },
       {
-        "name": "Jules Glanzer",
-        "url": "https://substack.com/@inhisstepsinmyshoes",
+        "name": "Natascha M.",
+        "url": "https://substack.com/@confidentverbalist",
         "badges": [
           "generous"
         ],
         "best_boost_comments": 9,
+        "best_boost_notes_engaged": 9,
+        "restacks_with_comment_this_week": 3,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
-        "current_streak": 1
-      },
-      {
-        "name": "Paul Robinson",
-        "url": "https://substack.com/@paulrobinsonlife",
-        "badges": [
-          "generous"
-        ],
-        "best_boost_comments": 5,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 3
-      },
-      {
-        "name": "Aaron Khoo",
-        "url": "https://substack.com/@thespacebetweenlifts",
-        "badges": [
-          "streak_bronze"
-        ],
-        "best_boost_comments": 4,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "current_streak": 0
       },
       {
         "name": "Cate Burnett Fierbaugh ACC",
@@ -1068,10 +1203,12 @@
         "badges": [
           "streak_bronze"
         ],
-        "best_boost_comments": 2,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "best_boost_comments": 3,
+        "best_boost_notes_engaged": 3,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
         "name": "Coach Brian Carver",
@@ -1079,9 +1216,24 @@
         "badges": [
           "streak_bronze"
         ],
-        "best_boost_comments": 0,
+        "best_boost_comments": 2,
+        "best_boost_notes_engaged": 2,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
+      },
+      {
+        "name": "Kimberly",
+        "url": "https://substack.com/@keepcommandcarryon",
+        "badges": [
+          "streak_bronze"
+        ],
+        "best_boost_comments": 4,
+        "best_boost_notes_engaged": 4,
+        "restacks_with_comment_this_week": 0,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 2,
         "current_streak": 4
       },
       {
@@ -1090,32 +1242,12 @@
         "badges": [
           "streak_bronze"
         ],
-        "best_boost_comments": 0,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
-      },
-      {
-        "name": "Kylene Toney",
-        "url": "https://substack.com/@kylenetoney",
-        "badges": [
-          "streak_bronze"
-        ],
-        "best_boost_comments": 0,
-        "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
-      },
-      {
-        "name": "Steve Miska",
-        "url": "https://substack.com/@wranglingandwriting",
-        "badges": [
-          "streak_bronze"
-        ],
         "best_boost_comments": 3,
+        "best_boost_notes_engaged": 3,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       },
       {
         "name": "Zacharie Edwards",
@@ -1124,9 +1256,11 @@
           "streak_bronze"
         ],
         "best_boost_comments": 0,
+        "best_boost_notes_engaged": 0,
+        "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
-        "boosts_dropped_this_week": 1,
-        "current_streak": 4
+        "boosts_dropped_this_week": 2,
+        "current_streak": 5
       }
     ]
   },
@@ -1134,12 +1268,28 @@
     "label": "Week of Nov 16",
     "members": [
       {
+        "name": "Amanda Brandon",
+        "url": "https://substack.com/@theknownleader"
+      },
+      {
+        "name": "Andre Crane",
+        "url": "https://substack.com/@andrecrane"
+      },
+      {
         "name": "Brand Perception Studio",
         "url": "https://substack.com/@brandperceptionstudio"
       },
       {
+        "name": "Dr. Hui  | The Prevention Edge",
+        "url": "https://substack.com/@huizukauskas"
+      },
+      {
         "name": "Jules Glanzer",
         "url": "https://substack.com/@inhisstepsinmyshoes"
+      },
+      {
+        "name": "Sharon Hull",
+        "url": "https://substack.com/@sharonhull"
       }
     ]
   }
