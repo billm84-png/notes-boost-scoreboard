@@ -1,10 +1,10 @@
 {
-  "updated_utc": "2026-11-25T03:11:48Z",
+  "updated_utc": "2026-11-27T03:05:39Z",
   "source": "Leadership Notes Boost threads, Butterfly Boardroom",
   "latest_boost": {
     "date": "2026-11-24",
-    "label": "Tue Nov 24 (early read)",
-    "read": "early"
+    "label": "Tue Nov 24",
+    "read": "final"
   },
   "week": {
     "label": "Week of Nov 23",
@@ -13,65 +13,65 @@
     "boosts": [
       "Tue Nov 24"
     ],
-    "read": "early"
+    "read": "final"
   },
   "room": {
-    "subscribers": 16940,
-    "followers": 33333,
-    "writers": 67,
+    "subscribers": 17413,
+    "followers": 34162,
+    "writers": 69,
     "median_subscribers": 106,
-    "writers_showed_up": 39,
-    "first_timers": 10,
+    "writers_showed_up": 42,
+    "first_timers": 13,
     "member_replies_per_note": 6.9
   },
   "room_reach": {
-    "subscribers": 17718,
-    "followers": 36555,
-    "members_counted": 83,
-    "room_members": 102,
+    "subscribers": 17997,
+    "followers": 36894,
+    "members_counted": 85,
+    "room_members": 105,
     "hidden_subscriber_counts": 7,
-    "median_subscribers": 98
+    "median_subscribers": 92
   },
   "this_week": {
     "label": "Week of Nov 23",
-    "writers_showed_up": 39,
-    "first_timers": 3,
+    "writers_showed_up": 42,
+    "first_timers": 5,
     "member_replies_per_note": 6.9,
-    "notes": 40,
+    "notes": 43,
     "boosts": 1
   },
   "growth": {
     "since": "2026-11-12",
-    "as_of": "2026-11-24",
+    "as_of": "2026-11-26",
     "members_then": 76,
-    "members_now": 83,
+    "members_now": 85,
     "subscribers": {
       "start": 15630,
-      "now": 17718,
-      "change": 2088,
-      "from_members_growing": 881,
-      "from_new_members": 1207
+      "now": 17997,
+      "change": 2367,
+      "from_members_growing": 1099,
+      "from_new_members": 1268
     },
     "followers": {
       "start": 30861,
-      "now": 36555,
-      "change": 5694,
-      "from_members_growing": 2341,
-      "from_new_members": 3353
+      "now": 36894,
+      "change": 6033,
+      "from_members_growing": 2617,
+      "from_new_members": 3416
     }
   },
   "playbook": {
-    "early_replies": 7.3,
-    "late_replies": 5.3,
-    "text_only_replies": 8.3,
-    "with_image_replies": 4.5
+    "early_replies": 7.4,
+    "late_replies": 5.4,
+    "text_only_replies": 8,
+    "with_image_replies": 4.9
   },
   "leaderboards": {
     "most_generous": [
       {
         "rank": 1,
         "name": "3 Questions Deep",
-        "value": 20,
+        "value": 21,
         "url": "https://substack.com/@3questionsdeep"
       },
       {
@@ -126,41 +126,41 @@
       },
       {
         "rank": 5,
-        "name": "Samantha (Strategic Friction)",
+        "name": "Steve Miska",
         "value": 10,
-        "url": "https://substack.com/@strategicfrictionadvisory/note/c-384749205"
+        "url": "https://substack.com/@wranglingandwriting/note/c-390129321"
       }
     ],
     "welcome_crew": [
       {
         "rank": 1,
         "name": "Julie (Taken as Read)",
-        "value": 5,
+        "value": 6,
         "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 2,
+        "name": "Marijana Jarc",
+        "value": 4,
+        "url": "https://substack.com/@marijanajarc"
+      },
+      {
+        "rank": 3,
         "name": "Pascal Thibodeau",
         "value": 4,
         "url": "https://substack.com/@pascalwrites"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Jules Glanzer",
         "value": 3,
         "url": "https://substack.com/@inhisstepsinmyshoes"
       },
       {
-        "rank": 4,
-        "name": "Sharon Hull",
-        "value": 3,
-        "url": "https://substack.com/@sharonhull"
-      },
-      {
         "rank": 5,
-        "name": "Brand Perception Studio",
+        "name": "Bri Leiðarljós",
         "value": 3,
-        "url": "https://substack.com/@brandperceptionstudio"
+        "url": "https://substack.com/@heartbeatsharborswildheartbeat"
       }
     ],
     "on_a_streak": [
@@ -321,7 +321,7 @@
       {
         "rank": 1,
         "name": "3 Questions Deep",
-        "value": 20,
+        "value": 21,
         "url": "https://substack.com/@3questionsdeep"
       },
       {
@@ -376,41 +376,41 @@
       },
       {
         "rank": 5,
-        "name": "Samantha (Strategic Friction)",
+        "name": "Steve Miska",
         "value": 10,
-        "url": "https://substack.com/@strategicfrictionadvisory/note/c-384749205"
+        "url": "https://substack.com/@wranglingandwriting/note/c-390129321"
       }
     ],
     "welcome_crew": [
       {
         "rank": 1,
         "name": "Julie (Taken as Read)",
-        "value": 5,
+        "value": 6,
         "url": "https://substack.com/@takenasread"
       },
       {
         "rank": 2,
+        "name": "Marijana Jarc",
+        "value": 4,
+        "url": "https://substack.com/@marijanajarc"
+      },
+      {
+        "rank": 3,
         "name": "Pascal Thibodeau",
         "value": 4,
         "url": "https://substack.com/@pascalwrites"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Brand Perception Studio",
         "value": 3,
         "url": "https://substack.com/@brandperceptionstudio"
       },
       {
-        "rank": 4,
-        "name": "Jules Glanzer",
-        "value": 3,
-        "url": "https://substack.com/@inhisstepsinmyshoes"
-      },
-      {
         "rank": 5,
-        "name": "Sharon Hull",
+        "name": "Bri Leiðarljós",
         "value": 3,
-        "url": "https://substack.com/@sharonhull"
+        "url": "https://substack.com/@heartbeatsharborswildheartbeat"
       }
     ]
   },
@@ -620,6 +620,12 @@
       "current_streak": 1
     },
     {
+      "name": "Bri Leiðarljós",
+      "url": "https://substack.com/@heartbeatsharborswildheartbeat",
+      "boosts_dropped": 3,
+      "current_streak": 1
+    },
+    {
       "name": "Samantha (Strategic Friction)",
       "url": "https://substack.com/@strategicfrictionadvisory",
       "boosts_dropped": 3,
@@ -680,12 +686,6 @@
       "current_streak": 0
     },
     {
-      "name": "Bri Leiðarljós",
-      "url": "https://substack.com/@heartbeatsharborswildheartbeat",
-      "boosts_dropped": 2,
-      "current_streak": 0
-    },
-    {
       "name": "Christian Brennecke-Räther",
       "url": "https://substack.com/@dercbr",
       "boosts_dropped": 2,
@@ -736,6 +736,18 @@
     {
       "name": "Antrell Rainey MBA",
       "url": "https://substack.com/@antrellrainey",
+      "boosts_dropped": 1,
+      "current_streak": 1
+    },
+    {
+      "name": "Kelvin Kipkoech",
+      "url": "https://substack.com/@kelvinkipkoech",
+      "boosts_dropped": 1,
+      "current_streak": 1
+    },
+    {
+      "name": "My View from Inside by Odile",
+      "url": "https://substack.com/@myviewfrominside1",
       "boosts_dropped": 1,
       "current_streak": 1
     },
@@ -821,14 +833,14 @@
     {
       "date": "2026-11-24",
       "label": "Tue Nov 24",
-      "writers_showed_up": 39,
-      "notes": 40,
+      "writers_showed_up": 42,
+      "notes": 43,
       "member_replies_per_note": 6.9
     }
   ],
   "badges_week": {
     "label": "Week of Nov 23",
-    "read": "early",
+    "read": "final",
     "rules": {
       "generous": "Commented on, or restacked with a comment, 5 or more members' Notes at a boost this week",
       "most_generous": "Commented on, or restacked with a comment, 10 or more members' Notes at a boost this week",
@@ -838,9 +850,9 @@
       "streak_gold": "24 boosts in a row"
     },
     "counts": {
-      "most_generous": 7,
+      "most_generous": 8,
       "generous": 12,
-      "welcome_crew": 2,
+      "welcome_crew": 3,
       "streak_bronze": 17,
       "streak_silver": 0,
       "streak_gold": 0
@@ -854,8 +866,8 @@
           "welcome_crew",
           "streak_bronze"
         ],
-        "best_boost_comments": 10,
-        "best_boost_notes_engaged": 10,
+        "best_boost_comments": 11,
+        "best_boost_notes_engaged": 11,
         "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 2,
         "boosts_dropped_this_week": 1,
@@ -905,14 +917,28 @@
         "current_streak": 5
       },
       {
+        "name": "Marijana Jarc",
+        "url": "https://substack.com/@marijanajarc",
+        "badges": [
+          "most_generous",
+          "streak_bronze"
+        ],
+        "best_boost_comments": 13,
+        "best_boost_notes_engaged": 14,
+        "restacks_with_comment_this_week": 1,
+        "first_timers_welcomed": 1,
+        "boosts_dropped_this_week": 1,
+        "current_streak": 6
+      },
+      {
         "name": "Aaron Khoo",
         "url": "https://substack.com/@thespacebetweenlifts",
         "badges": [
           "generous",
           "streak_bronze"
         ],
-        "best_boost_comments": 7,
-        "best_boost_notes_engaged": 8,
+        "best_boost_comments": 8,
+        "best_boost_notes_engaged": 9,
         "restacks_with_comment_this_week": 1,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
@@ -947,18 +973,18 @@
         "current_streak": 6
       },
       {
-        "name": "Marijana Jarc",
-        "url": "https://substack.com/@marijanajarc",
+        "name": "Bri Leiðarljós",
+        "url": "https://substack.com/@heartbeatsharborswildheartbeat",
         "badges": [
           "generous",
-          "streak_bronze"
+          "welcome_crew"
         ],
-        "best_boost_comments": 8,
-        "best_boost_notes_engaged": 9,
-        "restacks_with_comment_this_week": 1,
-        "first_timers_welcomed": 0,
+        "best_boost_comments": 6,
+        "best_boost_notes_engaged": 6,
+        "restacks_with_comment_this_week": 3,
+        "first_timers_welcomed": 3,
         "boosts_dropped_this_week": 1,
-        "current_streak": 6
+        "current_streak": 1
       },
       {
         "name": "Pascal Thibodeau",
@@ -1009,8 +1035,8 @@
           "most_generous"
         ],
         "best_boost_comments": 18,
-        "best_boost_notes_engaged": 20,
-        "restacks_with_comment_this_week": 10,
+        "best_boost_notes_engaged": 21,
+        "restacks_with_comment_this_week": 13,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
         "current_streak": 1
@@ -1021,8 +1047,8 @@
         "badges": [
           "most_generous"
         ],
-        "best_boost_comments": 14,
-        "best_boost_notes_engaged": 14,
+        "best_boost_comments": 15,
+        "best_boost_notes_engaged": 15,
         "restacks_with_comment_this_week": 0,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
@@ -1081,21 +1107,21 @@
         "current_streak": 3
       },
       {
-        "name": "Samantha (Strategic Friction)",
-        "url": "https://substack.com/@strategicfrictionadvisory",
+        "name": "Petra Benes",
+        "url": "https://substack.com/@petrabenes",
         "badges": [
           "generous"
         ],
-        "best_boost_comments": 5,
-        "best_boost_notes_engaged": 5,
-        "restacks_with_comment_this_week": 0,
-        "first_timers_welcomed": 0,
+        "best_boost_comments": 3,
+        "best_boost_notes_engaged": 6,
+        "restacks_with_comment_this_week": 3,
+        "first_timers_welcomed": 1,
         "boosts_dropped_this_week": 1,
         "current_streak": 1
       },
       {
-        "name": "Steve Miska",
-        "url": "https://substack.com/@wranglingandwriting",
+        "name": "Samantha (Strategic Friction)",
+        "url": "https://substack.com/@strategicfrictionadvisory",
         "badges": [
           "generous"
         ],
@@ -1177,8 +1203,8 @@
         "badges": [
           "streak_bronze"
         ],
-        "best_boost_comments": 1,
-        "best_boost_notes_engaged": 1,
+        "best_boost_comments": 2,
+        "best_boost_notes_engaged": 2,
         "restacks_with_comment_this_week": 1,
         "first_timers_welcomed": 0,
         "boosts_dropped_this_week": 1,
@@ -1192,6 +1218,14 @@
       {
         "name": "Antrell Rainey MBA",
         "url": "https://substack.com/@antrellrainey"
+      },
+      {
+        "name": "Kelvin Kipkoech",
+        "url": "https://substack.com/@kelvinkipkoech"
+      },
+      {
+        "name": "My View from Inside by Odile",
+        "url": "https://substack.com/@myviewfrominside1"
       },
       {
         "name": "Petra Benes",
